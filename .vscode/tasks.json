@@ -45,7 +45,7 @@
     {
       "id": "board",
       "type": "promptString",
-      "default": "nucleo_c031c6",
+      "default": "rpi_pico",
       "description": "See https://docs.zephyrproject.org/latest/boards/index.html"
     },
     {
